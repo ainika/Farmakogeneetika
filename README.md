@@ -1,0 +1,2 @@
+# Farmakogeneetika
+Ainka bakalaureusetöö skirpte
